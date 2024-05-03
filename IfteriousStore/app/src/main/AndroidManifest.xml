@@ -13,6 +13,24 @@
         android:theme="@style/Theme.IfteriousStore"
         tools:targetApi="31">
         <activity
+            android:name=".Bill_Payment_Deal_Six"
+            android:exported="false" />
+        <activity
+            android:name=".Bill_Payment_Deal_Five"
+            android:exported="false" />
+        <activity
+            android:name=".Bill_Payment_Deal_Four"
+            android:exported="false" />
+        <activity
+            android:name=".Bill_Payment_Deal_Three"
+            android:exported="false" />
+        <activity
+            android:name=".Bill_Payment_Deal_Two"
+            android:exported="false" />
+        <activity
+            android:name=".Bill_Payment_Deal_One"
+            android:exported="false" />
+        <activity
             android:name=".Set_Profile"
             android:exported="false" />
         <activity
