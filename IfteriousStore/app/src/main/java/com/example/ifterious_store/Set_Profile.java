@@ -12,7 +12,7 @@ import android.widget.Toast;
 
 public class Set_Profile extends AppCompatActivity {
     EditText editTextTextPersonName3,editTextTextEmailAddress3,editTextPhone2;
-    Button button15;
+    Button button15;//hello
     SharedPreferences sharedPreferences;
 
     private static final String SHARED_PREF_NAME = "mypref";
