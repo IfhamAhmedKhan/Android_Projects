@@ -16,7 +16,7 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:srcCompat="@drawable/dealone" />
+         />
 
     <TextView
         android:id="@+id/textView2"
@@ -29,7 +29,6 @@
         android:fontFamily="sans-serif-black"
         android:textColor="@color/black"
         android:padding="20dp"
-        android:background="@drawable/border"
         android:textAllCaps="false"
         app:layout_constraintBottom_toTopOf="@+id/imageView"
         app:layout_constraintEnd_toEndOf="parent"
@@ -42,7 +41,6 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="20dp"
         android:layout_marginBottom="35dp"
-        android:background="@drawable/btn_style"
         android:text="Order"
         android:textColor="@color/black"
         android:textStyle="bold"
@@ -63,7 +61,6 @@
         android:layout_marginEnd="31dp"
         android:layout_marginRight="31dp"
         android:layout_marginBottom="20dp"
-        android:background="@drawable/border"
         app:layout_constraintBottom_toTopOf="@+id/button7"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
